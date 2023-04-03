@@ -10,7 +10,7 @@ namespace Unit14.Hw1V2
     {
         static bool rqExit = false;
         static int pageIdx  = 0;
-        static int pageItemNum = 2;
+        const int pageItemNum = 2;
         static void Main(string[] args)
         {
 
